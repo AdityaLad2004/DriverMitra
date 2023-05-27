@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Drowsiness Detector App</string>
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Access to the Camera is needed for Detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>
+    <string name="logo_image">Logo Image</string>
+    <string name="drowsiness_detector">Drowsiness Detector</string>
+    <string name="drowsiness_detector_logo">Drowsiness Detector logo</string>
+    <string name="home">Home</string>
+    <string name="facts">Facts</string>
+    <string name="developers">Developers</string>
+    <string name="about">About</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">START</string>
+    <string name="tap_to_start">Tap to start</string>
+    <string name="the_developers">DEVELOPERS</string>
+    <string name="ayan_mukherjee">AYAN MUKHERJEE</string>
+    <string name="souvik_ghosh">SOUVIK GHOSH</string>
+    <string name="sawon_bhattacharya">SAWON BHATTACHARYA</string>
+    <string name="rajarsi_saha">RAJARSI SAHA</string>
+    <string name="navigation_drawer">Navigation Drawer</string>
+    <string name="the_facts">FACTS</string>
+    <string name="about_us">ABOUT US</string>
+    <string name="version">Version : 1.0.0</string>
+    <string name="copyright">Copyright © 2020, Ultra-Dev$, All rights reserved</string>
+</resources>
